@@ -17,8 +17,6 @@ const Homepage = () => {
     <h4>hobby:reading,coding,game</h4>
     <h4>development language:c++,c#,hlsl</h4>
     <h4>development tools:visual studio,visual studio code,github,source tree,Microsoft teams</h4>
-
-
   </div>
   )
 }
